@@ -2,7 +2,7 @@
 
 ### Hey there it's Harikumar aka phoenix-1708 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-1708&show_icons=true&hide_rank=true&theme=tokyonight&cc=FFFFFF&ic=DF7431&bc=FFFFFF&tc=000000&include_all_commits&show_owner)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-1708&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits&show_owner)
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-1708&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
 
