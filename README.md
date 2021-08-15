@@ -6,6 +6,12 @@
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-1708&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
 
+## Active Repositories 🥼</h2>
+<a href="https://github.com/phoenix-1708/epsilon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1708&repo=epsilon&show_owner=false&theme=dark"></a></p>
+<a href="https://github.com/phoenix-1708/android_kernel_xiaomi_sweet-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1708&repo=android_kernel_xiaomi_sweet-1&show_owner=false&theme=dark"></a></p>
+<a href="https://github.com/phoenix-1708/kernel_poco_citrus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1708&repo=kernel_poco_citrus&show_owner=false&theme=dark"></a></p>
+<h2 align="center">
+
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
