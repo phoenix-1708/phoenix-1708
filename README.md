@@ -26,3 +26,13 @@
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/harikumar1708)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/hariv1708)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/Harikumar)
+
+  
+
+## Contribution Graph
+
+<p align = "center">
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=phoenix-1708&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
+
+</p>
