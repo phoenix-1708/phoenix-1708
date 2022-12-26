@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanvin263&label=My Profile%20Views&color=129e00&style=plastic" alt="Sanvin2631" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-1708&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits&show_owner)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cbendot)](https://github.com/cbendot) 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-1708&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
 
@@ -31,9 +32,5 @@
   
 
 ## Contribution Graph
-
-<p align = "center">
-
- <img src="https://activity-graph.herokuapp.com/graph?username=phoenix-1708&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
-
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=phoenix-1708&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
