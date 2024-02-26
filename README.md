@@ -30,11 +30,10 @@
 
 
 ## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/harikumar1708)
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/hariv1708)
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/Harikumar)
-
-  
+<a href="https://t.me/hariv1708">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://mail.google.com/mail/u/0/#inbox.com/channels/harikumar1708@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://twitter.com/harikumar1708">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://instagram.com/hariv1708">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ## Contribution Graph
 [![Phoenix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phoenix-1708&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
